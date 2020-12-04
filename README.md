@@ -1,21 +1,17 @@
-# Project Title
+# Horiseon Code Reformat
 
-Horiseon Code Reformat
-
-## Description    
-
-    reformatted code to follow accessibility standards to optimize for search engines
+##     Reformatted code to follow accessibility standards to optimize for search engines
 
 ### Screenshot
 
     ![Image of repository]
-    (https://albenchris.github.io/horiseon_marketing/assets/images/screenshot(1))
-    (https://albenchris.github.io/horiseon_marketing/assets/images/screenshot(2))
-    (https://albenchris.github.io/horiseon_marketing/assets/images/screenshot(3))
+    (./assets/images/screenshot(1))
+    (./assets/images/screenshot(2))
+    (./assets/images/screenshot(3))
 
 ### Link    
 
-    [link to the repository](https://albenchris.github.io/horiseon_marketing/)
+    [Hori_seo_n Marketing](https://albenchris.github.io/horiseon_marketing/)
 
 ### Tasks Performed
 
