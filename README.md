@@ -1,22 +1,22 @@
 # Horiseon Code Reformat
 
-##     Reformatted code to follow accessibility standards to optimize for search engines
+## Description     
+Reformatted code to follow accessibility standards to optimize for search engines
 
 ### Screenshot
 
-    ![Image of repository]
-    (./assets/images/screenshot(1))
-    (./assets/images/screenshot(2))
-    (./assets/images/screenshot(3))
+![Image of repository](./assets/images/Screenshot(1).png)
+![Image of repository](./assets/images/Screenshot(2).png)
+![Image of repository](./assets/images/Screenshot(3).png)
 
 ### Link    
 
-    [Hori_seo_n Marketing](https://albenchris.github.io/horiseon_marketing/)
+[Hori*seo*n Marketing](https://albenchris.github.io/horiseon_marketing/)
 
 ### Tasks Performed
 
-* scouted code
-* improved html semantics
-* made structure logical and sequential
-* consolidated CSS with DRY method
-* followed accessibility standards
+* Scouted code
+* Improved html semantics
+* Made structure logical and sequential
+* Consolidated CSS with DRY method
+* Followed accessibility standards
